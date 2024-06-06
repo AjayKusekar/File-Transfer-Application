@@ -33,11 +33,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Libraries and Frameworks
 
 https://clerk.com/ - Clerk
+
 https://lucide.dev/ - lucid dev icons
+
 https://logoipsum.com/ - Logoipsum
+
 https://www.hyperui.dev/ - HyperUi
+
 https://react.email/ - React email
+
 https://resend.com/emails - Resend
+
 
 ## Deploy on Vercel
 
